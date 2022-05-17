@@ -1,0 +1,1 @@
+cp assets/* ../x64/Debug/assets

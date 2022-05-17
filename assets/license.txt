@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kaunas castle M300 Parrot ANAFI Ai
+* source:	https://sketchfab.com/3d-models/kaunas-castle-m300-parrot-anafi-ai-0a4e00f0c8e14eb096c179aac6404e50
+* author:	Saulius.Zaura (https://sketchfab.com/Saulius.Zaura)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kaunas castle M300 Parrot ANAFI Ai" (https://sketchfab.com/3d-models/kaunas-castle-m300-parrot-anafi-ai-0a4e00f0c8e14eb096c179aac6404e50) by Saulius.Zaura (https://sketchfab.com/Saulius.Zaura) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

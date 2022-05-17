@@ -1,0 +1,1 @@
+pwsh.exe -c cp  -r assets Build/Debug/assets
